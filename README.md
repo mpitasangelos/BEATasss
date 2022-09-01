@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BEATasss
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me mpitas.aggelos@gmail.com
 <!---
